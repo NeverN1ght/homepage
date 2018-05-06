@@ -17,7 +17,7 @@ body {
     margin-bottom: 10%;
 }
 
-.razdel {
+.part {
     background-color: rgb(130, 54, 201);
     padding: 10px;
     padding-left: 10%;
@@ -35,4 +35,12 @@ body {
     color: #fff;
 }
 
+.contact {
+    color: #fff;
+    text-decoration: none;
+}
+
+.purple {
+    color: rgb(130, 54, 201);
+}
 
