@@ -1,0 +1,26 @@
+
+.left-sidebar {
+    padding: 0!important;  
+    background-color: gray; 
+}
+
+.image {
+    margin-top: 15%;
+    margin-bottom: 10%;
+}
+
+.razdel {
+    background-color: blueviolet;
+    padding: 10px;
+    padding-left: 10%;
+}
+
+#top-first {
+    margin-top: 10px;
+}
+
+#top-second {
+    margin-top: 40px;   
+}
+
+
