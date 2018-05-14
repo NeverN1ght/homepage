@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(79, 5, 148);
+    background-color: rgb(53, 4, 99);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -9,7 +9,7 @@ body {
 
 .left-sidebar {
     padding: 0!important;  
-    background-color: rgba(0, 0, 0, 0.507); 
+    background-color: rgba(0, 0, 0, 0.568); 
 }
 
 .image {
